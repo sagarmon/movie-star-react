@@ -18,7 +18,7 @@ const Container = () => {
     }
 
     return (
-        <div className="container">
+        <div className="container mb-5">
             <div className="row">
                 <div className="col-9">
                     {/* <h2>Movie Stars: {stars.length}</h2> */}

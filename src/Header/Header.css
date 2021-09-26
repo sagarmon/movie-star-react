@@ -1,0 +1,10 @@
+.header {
+  background-color: lightyellow;
+  text-align: center;
+  color: cornflowerblue;
+  padding: 20px;
+}
+
+.header h1 {
+  margin: 0;
+}

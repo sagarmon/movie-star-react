@@ -1,0 +1,92 @@
+[
+  {
+    "id": "ms001",
+    "name": "Tom Cruise",
+    "age": 59,
+    "gender": "Male",
+    "country": "USA",
+    "salary": 2700000,
+    "img": "https://imagizer.imageshack.com/img922/3756/DvxsAU.png"
+  },
+  {
+    "id": "ms002",
+    "name": "Angelina Jolie",
+    "age": 46,
+    "gender": "Female",
+    "country": "USA",
+    "salary": 2500000,
+    "img": "https://imagizer.imageshack.com/img924/8025/ayzZcz.png"
+  },
+  {
+    "id": "ms003",
+    "name": "Brad Pitt",
+    "age": 57,
+    "gender": "Male",
+    "country": "USA",
+    "salary": 2350000,
+    "img": "https://imagizer.imageshack.com/img923/1938/Qkab7D.png"
+  },
+  {
+    "id": "ms004",
+    "name": "Johhny Depp",
+    "age": 45,
+    "gender": "Male",
+    "country": "USA",
+    "salary": 3000000,
+    "img": "https://imagizer.imageshack.com/img924/474/bgwYga.png"
+  },
+  {
+    "id": "ms005",
+    "name": "Leonardo DiCaprio",
+    "age": 46,
+    "gender": "Male",
+    "country": "USA",
+    "salary": 3250000,
+    "img": "https://imagizer.imageshack.com/img924/1428/4mKBKT.png"
+  },
+  {
+    "id": "ms006",
+    "name": "Russel Crowe",
+    "age": 57,
+    "gender": "Male",
+    "country": "USA",
+    "salary": 2250000,
+    "img": "https://imagizer.imageshack.com/img923/6377/z5w1l6.png"
+  },
+  {
+    "id": "ms007",
+    "name": "Morgan Freeman",
+    "age": 84,
+    "gender": "Male",
+    "country": "USA",
+    "salary": 2950000,
+    "img": "https://imagizer.imageshack.com/img924/4880/v6dwAk.png"
+  },
+  {
+    "id": "ms008",
+    "name": "Sylvester Stallone",
+    "age": 75,
+    "gender": "Male",
+    "country": "USA",
+    "salary": 3500000,
+    "img": "https://imagizer.imageshack.com/img922/7465/UQd7TY.png"
+  },
+  {
+    "id": "ms009",
+    "name": "Arnold Schwarzenegger",
+    "age": 74,
+    "gender": "Male",
+    "country": "USA",
+    "salary": 4500000,
+    "img": "https://imagizer.imageshack.com/img924/7528/qqqCTG.png"
+  },
+  {
+    "id": "ms010",
+    "name": "Kate Winslet",
+    "age": 45,
+    "gender": "Female",
+    "country": "UK",
+    "salary": 1950000,
+    "img": "https://imagizer.imageshack.com/img922/6577/esUEao.png"
+  }
+]
